@@ -1,7 +1,12 @@
-<h1 align="center">LHK's README
+<h1 align="center">LHK's README</h1>
 <div align="center">
 <a href="https://twitter.com/lhk_SE" ><img src="https://img.shields.io/twitter/follow/lhk_SE.svg?style=social" /> </a>
 
+
+
+<!--
+![LHK's GitHub stats](https://github-readme-stats.vercel.app/api?username=LHKSE&hide=contribs,prs&show_icons=true&theme=dark)
+-->
 
 <!---
 LHKSE/LHKSE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
