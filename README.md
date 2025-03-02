@@ -4,7 +4,7 @@
   
 <h3>  </h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHKSE&layout=compact&theme=radical"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhkse&hide_progress=true&theme=shadow_red )
 
 ## BIO
 
