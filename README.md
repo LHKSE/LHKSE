@@ -50,23 +50,3 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LHKSE&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="Lior's GitHub Stats" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LHKSE&theme=onedark&hide_border=true&background=0D1117" alt="Lior's GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHKSE&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
