@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Lior! 👋
+# Hi there, I'm LHK! 👋
 
 <a href="https://lhkspace.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer;Self-Taught+Indie+Developer;Building+Web+%26+Mobile+Apps;Automation+Enthusiast" alt="Typing SVG" /></a>
 
