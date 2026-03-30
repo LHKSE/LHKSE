@@ -1,47 +1,72 @@
-<h1 align="center">LHK's README </h1>
 <div align="center">
-<a href="https://twitter.com/lhk_SE" ><img src="https://img.shields.io/twitter/follow/lhk_SE.svg?style=social" /> </a>
-  
-<h3>  </h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhkse&hide_progress=true&theme=shadow_red )
+# Hi there, I'm Lior! 👋
 
-## BIO
+<a href="https://lhkspace.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer;Self-Taught+Indie+Developer;Building+Web+%26+Mobile+Apps;Automation+Enthusiast" alt="Typing SVG" /></a>
 
-Mobile:
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
+**I'm a self-taught software engineer building modern applications from the ground up. I thrive on bringing ideas to life, automating workflows, and diving deep into native mobile and web development.**
 
-Software:
-[![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)](https://blender.org)
-![Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![windows11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
-![virtualbox](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
+<br>
 
+[![Website](https://img.shields.io/badge/Website-lhkspace.com-181717?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lhkspace.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liorh/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lhk_SE)
 
-DataBase:
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![sqlite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+</div>
 
-Languages:
-![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/LHKSE/count.svg" />
-</p>
+## 🚀 Featured Projects
 
-<!--
-![LHK's GitHub stats](https://github-readme-stats.vercel.app/api?username=LHKSE&hide=contribs,prs&show_icons=true&theme=dark)
--->
+| Project | Description | Live Link |
+| :--- | :--- | :---: |
+| **[W-MAP](https://wmap.lhkspace.com/)** | Interactive, secure geopolitical map and event tracking web application. | [🔗 Visit](https://wmap.lhkspace.com/) |
+| **[Lumina](https://lumina.lhkspace.com/)** | Native Android vocabulary builder utilizing a Spaced Repetition System. | [🔗 Visit](https://lumina.lhkspace.com/) |
+| **[Repertoire](https://repertoire.lhkspace.com/dashboard)** | Personalized recommendation engine to discover new piano pieces. | [🔗 Visit](https://repertoire.lhkspace.com/dashboard) |
+| **[Piano Community](https://discord.lhkspace.com/)** | Landing portal for my growing Discord community of musicians. | [🔗 Visit](https://discord.lhkspace.com/) |
 
-<!---
-LHKSE/LHKSE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.- 👋 Hi, I’m @LHKSE
-- 👀 I’m interested in software engineering
-- 📫 you can reach me in X - @lhk_SE
---->
+---
+
+## 💻 Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### Databases & Cloud
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Tools & Environments
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LHKSE&show_icons=true&theme=onedark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="Lior's GitHub Stats" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LHKSE&theme=onedark&hide_border=true&background=0D1117" alt="Lior's GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LHKSE&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
