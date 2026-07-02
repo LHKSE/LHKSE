@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi there, I'm LHK! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=Hi%20there,%20I'm%20LHK%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20·%20Indie%20Developer%20·%20Automation%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
 
-<a href="https://lhkspace.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer;Self-Taught+Indie+Developer;Building+Web+%26+Mobile+Apps;Automation+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://lhkspace.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Self-Taught+Indie+Developer;Building+Web+%26+Mobile+Apps;Automating+Everything+I+Can;Always+Shipping+Something+New" alt="Typing SVG" /></a>
+
+<br>
 
 **I'm a self-taught software engineer building modern applications from the ground up. I thrive on bringing ideas to life, automating workflows, and diving deep into native mobile and web development.**
 
@@ -12,11 +14,26 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liorh/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/lhk_SE)
 
+<img src="https://komarev.com/ghpvc/?username=LHKSE&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile views" />
+
 </div>
 
----
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=38BDF8&height=2&section=header" width="100%" />
+
+## 🔭 Currently
+
+- 🚀 Building and polishing products under **[lhkspace.com](https://lhkspace.com/)**
+- 🎹 Growing **Piano Community**, a Discord space for musicians
+- 🤖 Exploring new ways to automate everyday workflows
+- 📱 Sharpening native Android development skills
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=38BDF8&height=2&section=header" width="100%" />
 
 ## 🚀 Featured Projects
+
+<div align="center">
 
 | Project | Description | Live Link |
 | :--- | :--- | :---: |
@@ -25,28 +42,38 @@
 | **[Repertoire](https://repertoire.lhkspace.com/dashboard)** | Personalized recommendation engine to discover new piano pieces. | [🔗 Visit](https://repertoire.lhkspace.com/dashboard) |
 | **[Piano Community](https://discord.lhkspace.com/)** | Landing portal for my growing Discord community of musicians. | [🔗 Visit](https://discord.lhkspace.com/) |
 
----
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=38BDF8&height=2&section=header" width="100%" />
 
 ## 💻 Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,python,cs,html,css&theme=dark" alt="Languages" />
+</a>
 
-### Databases & Cloud
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+<br><br>
 
-### Tools & Environments
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,firebase,mysql,sqlite&theme=dark" alt="Frameworks & Data" />
+</a>
+
+<br><br>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,githubactions,kali,blender&theme=dark" alt="Tools & Environments" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=38BDF8&height=2&section=header" width="100%" />
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Life's+too+short+to+not+play+the+piano." alt="Quote" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:0F172A&height=120&section=footer" width="100%" />
