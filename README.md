@@ -26,12 +26,16 @@
 
 ## Featured Projects
 
+<div align="center">
+
 | Project | Description |
 | :--- | :--- |
 | **[W-MAP](https://wmap.lhkspace.com/)** | Interactive, secure geopolitical map and event tracking web application. |
 | **[Lumina](https://lumina.lhkspace.com/)** | Native Android vocabulary builder utilizing a Spaced Repetition System. |
 | **[Repertoire](https://repertoire.lhkspace.com/dashboard)** | Personalized recommendation engine to discover new piano pieces. |
 | **[Piano Community](https://discord.lhkspace.com/)** | Landing portal for my growing Discord community of musicians. |
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=38BDF8&height=2&section=header" width="100%" />
 
@@ -61,7 +65,7 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Life%27s+too+short+to+not+play+the+piano." alt="Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Life's+too+short+to+not+play+the+piano." alt="Quote" />
 
 </div>
 
