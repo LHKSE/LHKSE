@@ -1,20 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=Hi%20there,%20I'm%20LHK%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20·%20Indie%20Developer%20·%20Automation%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
-
-<a href="https://lhkspace.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=560&lines=Self-Taught+Indie+Developer;Building+Web+%26+Mobile+Apps;Automating+Everything+I+Can;Always+Shipping+Something+New" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:38BDF8&height=220&section=header&text=LHK&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20·%20Indie%20Developer%20·%20Automation%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
 
 <br>
 
-**I'm a self-taught software engineer building modern applications from the ground up. I thrive on bringing ideas to life, automating workflows, and diving deep into native mobile and web development.**
+**Independent developer creating modern web and mobile applications. I build tools to solve my own problems, automate daily tasks, and continuously refine my engineering skills.**
 
 <br>
 
 [![Website](https://img.shields.io/badge/Website-lhkspace.com-181717?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lhkspace.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liorh/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LHKdev)
-
-<img src="https://komarev.com/ghpvc/?username=LHKSE&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile views" />
+[![X](https://img.shields.io/badge/LHKdev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LHKdev)
 
 </div>
 
@@ -22,16 +18,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=38BDF8&height=2&section=header" width="100%" />
 
-## 🔭 Currently
+## Currently
 
-- 🚀 Building and polishing products under **[lhkspace.com](https://lhkspace.com/)**
-- 🎹 Growing **Piano Community**, a Discord space for musicians
-- 🤖 Exploring new ways to automate everyday workflows
-- 📱 Sharpening native Android development skills
+- Building and polishing products under **[lhkspace.com](https://lhkspace.com/)**
+- Developing and improving **[Repertoire](https://repertoire.lhkspace.com/)**
+- Exploring new ways to automate everyday workflows
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=38BDF8&height=2&section=header" width="100%" />
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -46,24 +41,24 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=38BDF8&height=2&section=header" width="100%" />
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,cs,html,css&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,cs&theme=dark" alt="Languages" />
 </a>
 
 <br><br>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,firebase,mysql,sqlite&theme=dark" alt="Frameworks & Data" />
+  <img src="https://skillicons.dev/icons?i=react,firebase,vite,supabase&theme=dark" alt="Frameworks & Data" />
 </a>
 
 <br><br>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,githubactions,kali,blender&theme=dark" alt="Tools & Environments" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,githubactions,vercel&theme=dark" alt="Tools & Environments" />
 </a>
 
 </div>
