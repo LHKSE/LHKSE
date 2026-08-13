@@ -16,8 +16,6 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=38BDF8&height=2&section=header" width="100%" />
-
 ## Currently
 
 - Building and polishing products under **[lhkspace.com](https://lhkspace.com/)**
@@ -28,46 +26,42 @@
 
 ## Featured Projects
 
-<div align="center">
-
-| Project | Description | Live Link |
-| :--- | :--- | :---: |
-| **[W-MAP](https://wmap.lhkspace.com/)** | Interactive, secure geopolitical map and event tracking web application. | [🔗 Visit](https://wmap.lhkspace.com/) |
-| **[Lumina](https://lumina.lhkspace.com/)** | Native Android vocabulary builder utilizing a Spaced Repetition System. | [🔗 Visit](https://lumina.lhkspace.com/) |
-| **[Repertoire](https://repertoire.lhkspace.com/dashboard)** | Personalized recommendation engine to discover new piano pieces. | [🔗 Visit](https://repertoire.lhkspace.com/dashboard) |
-| **[Piano Community](https://discord.lhkspace.com/)** | Landing portal for my growing Discord community of musicians. | [🔗 Visit](https://discord.lhkspace.com/) |
-
-</div>
+| Project | Description |
+| :--- | :--- |
+| **[W-MAP](https://wmap.lhkspace.com/)** | Interactive, secure geopolitical map and event tracking web application. |
+| **[Lumina](https://lumina.lhkspace.com/)** | Native Android vocabulary builder utilizing a Spaced Repetition System. |
+| **[Repertoire](https://repertoire.lhkspace.com/dashboard)** | Personalized recommendation engine to discover new piano pieces. |
+| **[Piano Community](https://discord.lhkspace.com/)** | Landing portal for my growing Discord community of musicians. |
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=38BDF8&height=2&section=header" width="100%" />
 
 ## Tech Stack
 
-<div align="center">
+**Languages** <br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,cs&theme=dark" alt="Languages" />
-</a>
+<br>
 
-<br><br>
+**Frameworks & Data** <br>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,firebase,vite,supabase&theme=dark" alt="Frameworks & Data" />
-</a>
+<br>
 
-<br><br>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,githubactions,vercel&theme=dark" alt="Tools & Environments" />
-</a>
-
-</div>
+**Tools & Environments** <br>
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=38BDF8&height=2&section=header" width="100%" />
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Life's+too+short+to+not+play+the+piano." alt="Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Life%27s+too+short+to+not+play+the+piano." alt="Quote" />
 
 </div>
 
